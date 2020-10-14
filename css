@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#bodyWrapper{
+    padding-left: 30%;
+    padding-right: 30%;
+    background-color: rgb(0, 0, 0);
+    height: 100%;
+}
+#leftColumn{
+    float: left;
+    height: 100%;
+    background-color:rgb(39, 39, 39);
+    min-width: 20%;
+    max-width: 200px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#leftColumn hr{
+    width: 50%;
+    margin-bottom: 10px;
+}
+aside{
+    margin-top: 25px;
+}
+
+#mainBody{
+    min-width:10% ;
+    /* float: left; */
+    height: 1000px;
+    background-color:rgb(255, 255, 255);
+    
+}
+ #profilePic{
+    padding: 10px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+
+ }
+
+
+
+#rightHeader{
+    min-height: 145px;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(187, 187, 187);
+}
+#headerStyle{
+    height: 20px;
+}
+
+.icon{
+    fill: rgb(252, 252, 252);
+    height: 30px;
+    padding: 5px;
+}
+
+
+/* Top Bar */
+#colorOne{
+    background-color: rgb(255, 255, 255);
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+#colorTwo{
+    background-color:rgb(255, 255, 255);
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+#colorThree{
+    background-color: rgb(255, 255, 255);
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+#colorFour{
+    background-color:rgb(255, 255, 255);
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(38, 132, 255);
+}
+
+#rightColumn{
+    float: left;
+    width: 69%;
+}
+
+#rightHeader{
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    
+    
+
+}
+
+#mainBody{
+    padding-left: 50px;
+    margin-top: 100px;
+    background-color: white;
+    
+}
+
+
